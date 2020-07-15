@@ -5,5 +5,5 @@ int main(void)
 {
   10+20;
   
-  return 0; // 프로그램 
+  return 0; // 프로그램 종료
 }
