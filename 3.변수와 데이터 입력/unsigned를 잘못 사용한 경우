@@ -5,6 +5,10 @@ int main(void)
     unsigned int a;
     
     a=4294967295;
-    printf
+    printf("%d\n", a);
+    a = -1;
+    printf("%d\n", a);
+    
+    return 0;
     
 }
