@@ -3,14 +3,15 @@
 int main(void)
 {
     int a, b;
-    int sum;
+    int sum, syb;
     
     a = 10;
     b = 20;
     sum = a+b;
+    sub = a-b;
     
     printf("a의 값 :%d, b의 값 :%d\n", a, b);
-    
+    printf("덧셈 ; %
     
     
     
