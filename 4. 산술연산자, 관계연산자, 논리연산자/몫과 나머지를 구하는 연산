@@ -14,6 +14,5 @@ int main(void)
     printf("banana : %d\n", banana);
     printf("orange : %d\n", orange);
     
-    
     return 0;
 }
